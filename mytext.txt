@@ -1,4 +1,8 @@
 ls list
 git clone
 cd change directory
-vi open editor 
+vi open editor
+git add, git commit -m, git push
+git branch 
+git checkout -b (create branch)
+
