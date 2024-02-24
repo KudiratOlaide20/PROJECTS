@@ -1,0 +1,4 @@
+ls list
+git clone
+cd change directory
+vi open editor 
